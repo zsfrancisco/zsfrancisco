@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Francisco!  :wave: :feelsgood:
 
-<!--
-**zsfrancisco/zsfrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Colombian software engineer passionate about helping the community. 
+Some technologies that I enjoy working with are: Angular, ReactJS, and recently I am taking a lot of courses because I love learning.
 
-Here are some ideas to get you started:
+I'm working in :computer: [Mopasoft SAS](https://www.mopasoft.com.co/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web :earth_americas:
+
+you can follow me or contact me at
+
+- :bird: [@ZSFrancisco](https://twitter.com/ZSFrancisco)
+- :blue_book: [linkedin](https://www.linkedin.com/in/zsfrancisco/)
+- :godmode: [facebook](https://www.facebook.com/ZSFrancisco)
+- :camera: [instagram](https://www.instagram.com/zsfrancisco/)
