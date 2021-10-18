@@ -6,7 +6,7 @@ I am a Colombian software developer passionate about helping the community.
 Some technologies that I enjoy working with are: Angular, ReactJS, and recently I am taking a lot of courses because I love learning.
 
 ## Job
-I'm working in :computer: [Smartsoft Labs](https://www.smartsoftlabs.com/)
+I'm working in :computer: [IAS](https://www.ias.com.co/en_US/)
 
 ## Find me around the web :earth_americas:
 
