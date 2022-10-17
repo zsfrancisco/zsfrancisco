@@ -6,7 +6,7 @@ I am a Colombian software developer passionate about helping the community.
 I'm a software developer with more than 2 years of experience developing websites and applications for different clients, using agile methodologies (SCRUM), Spring,  Node  JS,  Angular, React JS, Redux, and others. I am passionate about learning and bringing good things to society with software development.
 
 ## Job
-I'm working in :computer: [IAS](https://www.ias.com.co/en_US/)
+I'm working at :computer: [Globant](https://www.globant.com/) as Web UI developer
 
 ## Find me around the web :earth_americas:
 
