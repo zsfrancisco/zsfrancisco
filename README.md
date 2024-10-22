@@ -1,12 +1,10 @@
 # Hi, I'm Francisco!  :wave:
 
-![banner github](https://user-images.githubusercontent.com/47479378/89241526-c8f49580-d5c4-11ea-8780-62de11b41c43.jpg)
-
 I am a Colombian software developer passionate about helping the community. 
 I'm a software developer with more than 2 years of experience developing websites and applications for different clients, using agile methodologies (SCRUM), Spring,  Node  JS,  Angular, React JS, Redux, and others. I am passionate about learning and bringing good things to society with software development.
 
 ## Job
-I'm working at :computer: [Globant](https://www.globant.com/) as Web UI developer
+I'm working at :computer: [Globant](https://www.globant.com/) as Senior Web UI developer
 
 ## Find me around the web :earth_americas:
 
